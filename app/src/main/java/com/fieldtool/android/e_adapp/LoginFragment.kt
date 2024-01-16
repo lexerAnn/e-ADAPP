@@ -77,12 +77,6 @@ class LoginFragment : Fragment() {
 
 
     private fun authenticateWithBiometrics() {
-        val cryptoHelper = CryptoHelper(this@LoginFragment.requireContext())
-//
-//        if (!cryptoHelper.checkOneBiometricMustBeEnrolled()) {
-//            toast("No biometric data enrolled. Please enroll at least one biometric credential.")
-//            return
-//        }
 
         val executor: Executor = ContextCompat.getMainExecutor(requireActivity())
         biometricPrompt = BiometricPrompt(this, executor,
