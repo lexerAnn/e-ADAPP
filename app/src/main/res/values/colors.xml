@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="green">#22A45D</color>
+    <color name="tint_green">#BDE4CF</color>
+
+    <color name="smallTextColor">#666666</color>
+
+    <color name="searchHintColor">#9e9f9f</color>
+    <color name="logoTextColor">#506d5d</color>
+
+    <color name="error_color">#FF0000</color>
+</resources>

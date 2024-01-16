@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/leslieannan/.gradle/daemon/7.4/com.fieldtool.android.e_adapp-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "/Users/leslieannan/.gradle/daemon/7.4/com.fieldtool.android.e_adapp-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/leslieannan/.gradle/daemon/7.4/com.fieldtool.android.e_adapp-mergeDebugResources-51:/layout/fragment_login.xml",
+        "source": "/Users/leslieannan/.gradle/daemon/7.4/com.fieldtool.android.e_adapp-main-54:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/leslieannan/.gradle/daemon/7.4/com.fieldtool.android.e_adapp-mergeDebugResources-51:/layout/fragment_dashboard.xml",
+        "source": "/Users/leslieannan/.gradle/daemon/7.4/com.fieldtool.android.e_adapp-main-54:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.fieldtool.android.e_adapp-mergeDebugResources-51:/layout/fragment_login.xml",
+        "source": "com.fieldtool.android.e_adapp-main-54:/layout/fragment_login.xml"
+    }
+]

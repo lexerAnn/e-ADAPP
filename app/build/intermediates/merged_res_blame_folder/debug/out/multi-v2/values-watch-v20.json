@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fieldtool.android.e_adapp-mergeDebugResources-50:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/leslieannan/.gradle/caches/transforms-3/d41765ab9afee80ca703087627db1d44/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

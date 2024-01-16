@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">e-ADAPP</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Log In</string>
+    <string name="logo_text_desc">We Drive Agriculture through Technology</string>
+    <string name="e_adapp">e-ADAPP</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="etner_email">Enter email or phone</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="or">OR</string>
+
+    <string name="error_empty_field">This field cannot be empty.</string>
+    <string name="create_account">Don\'t have an Account? Create Account</string>
+
+
+</resources>
